@@ -1,13 +1,6 @@
 # List of all the website that has AI 
 
 
-
-[Bard](https://bard.google.com/)
-[HeyPi](https://heypi.com/talk)
-[ChatGPT](https://chat.openai.com/)
-
-
-
 | AI Name                | Official Website                          | Type                                    |
 |------------------------|-------------------------------------------|-----------------------------------------|
 | OpenAI GPT             | https://openai.com                         | Natural Language Processing (NLP)       |
@@ -29,3 +22,21 @@
 | DeepMind AlphaGo       | https://deepmind.com/research/alphago      | Game-playing AI                          |
 | NVIDIA Deep Learning   | https://www.nvidia.com/en-us/deep-learning-ai/ | Hardware and Software for AI        |
 | BERT                   | https://github.com/google-research/bert    | Natural Language Processing (NLP)       |
+
+
+<br>
+
+## More
+
+| Name | Link | Type |
+|---|---|---|
+| Bard | https://bard.google.com/ | text |
+| HeyPi | https://heypi.com/talk | text |
+| ChatGPT | https://chat.openai.com/ | text |
+| Playground AI | https://playgroundai.com/ | img |
+| Lexica | https://lexica.art/ | img |
+| Bluewillow | https://www.bluewillow.ai/ | img |
+| Craiyon | https://www.craiyon.com/ | img |
+
+
+
