@@ -1,5 +1,5 @@
-# List of all the website that has AI 
-
+# List of AI website
+> https://theresanaiforthat.com/ai/
 
 | AI Name                | Official Website                          | Type                                    |
 |------------------------|-------------------------------------------|-----------------------------------------|
@@ -38,5 +38,12 @@
 | Bluewillow | https://www.bluewillow.ai/ | img |
 | Craiyon | https://www.craiyon.com/ | img |
 
+<br>
 
+## _Large form_ to _short form_ video AIs
 
+| Name | Link |
+|---|---|
+| 2 Short | 2short.ai |
+| Choppity | choppity.com |
+| Dumme | dumme.com |
