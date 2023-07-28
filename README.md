@@ -1,5 +1,7 @@
-# List of AI website
+# List of AI websites
 > https://theresanaiforthat.com/ai/
+
+<br>
 
 | AI Name                | Official Website                          | Type                                    |
 |------------------------|-------------------------------------------|-----------------------------------------|
@@ -44,6 +46,6 @@
 
 | Name | Link |
 |---|---|
-| 2 Short | 2short.ai |
-| Choppity | choppity.com |
-| Dumme | dumme.com |
+| 2 Short | https://2short.ai |
+| Choppity | https://choppity.com |
+| Dumme | https://dumme.com |
